@@ -5,7 +5,8 @@
 
 **ImageAdjust** is a powerful and easy-to-integrate Razor Class Library (RCL) for ASP.NET Core applications. It provides a complete UI and backend service for image cropping, resizing, format conversion (JPG, PNG, WebP, BMP), and compression.
 
-![ImageAdjust Demo](assets/demo-screenshot.png)
+<img width="1920" height="912" alt="demo-screenshot" src="https://github.com/user-attachments/assets/d70d668a-ac9d-46b9-b529-9ee9865c13b8" />
+
 
 ## Features
 
