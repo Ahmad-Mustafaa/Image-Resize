@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>ahmad.ImageAdjust</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ahmad Mustafa</Authors>
+    <Description>Integrate in your .net project which help your images to crop and convert in different formats</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="3.119.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="ImageCrop.Web\ImageCrop.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ImageCrop.Web\**" />
+    <Content Remove="ImageCrop.Web\**" />
+    <EmbeddedResource Remove="ImageCrop.Web\**" />
+    <None Remove="ImageCrop.Web\**" />
+  </ItemGroup>
+
+</Project>

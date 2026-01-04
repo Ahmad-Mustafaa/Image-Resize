@@ -1,0 +1,167 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Image Crop & Process";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Image Processing Studio</title>
+    <meta name="description" content="Professional image cropping, resizing, format conversion, and compression tool">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    
+    <!-- Cropper.js CSS -->
+    <link rel="stylesheet" href="/_content/ImageCrop.Web/lib/cropper/cropper.min.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/_content/ImageCrop.Web/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        @Html.AntiForgeryToken()
+        <header class="header">
+            <h1>🎨 Image Processing Studio</h1>
+            <p>Professional image cropping, resizing, format conversion & compression</p>
+        </header>
+
+        <!-- Upload Section -->
+        <div class="glass-card upload-section">
+            <div class="upload-area" id="uploadArea">
+                <div class="upload-icon">📁</div>
+                <div class="upload-text">
+                    <h3>Upload Your Image</h3>
+                    <p>Drag and drop or click to browse • Max 10MB • JPG, PNG, WebP, BMP, GIF</p>
+                </div>
+                <input type="file" id="fileInput" accept="image/*">
+            </div>
+
+            <!-- Image Preview with Cropper -->
+            <div class="image-preview" id="imagePreview">
+                <div class="preview-container">
+                    <img id="previewImage" src="" alt="Preview">
+                </div>
+                
+                <div id="imageInfo" style="margin-top: 1rem; padding: 1rem; background: rgba(255,255,255,0.03); border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem;">
+                    <p><strong style="color: #667eea;">Dimensions:</strong> <span id="infoDimensions"></span></p>
+                    <p><strong style="color: #667eea;">Format:</strong> <span id="infoFormat"></span></p>
+                    <p><strong style="color: #667eea;">Size:</strong> <span id="infoSize"></span></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls Section -->
+        <div class="glass-card" id="controlsSection" style="display: none;">
+            <div class="controls-grid">
+                <!-- Crop Controls -->
+                <div class="control-section">
+                    <h3>✂️ Crop Settings</h3>
+                    <div class="form-group">
+                        <label>Aspect Ratio</label>
+                        <div class="aspect-ratio-buttons">
+                            <button class="aspect-btn active" data-ratio="free">Free</button>
+                            <button class="aspect-btn" data-ratio="1">1:1</button>
+                            <button class="aspect-btn" data-ratio="1.333">4:3</button>
+                            <button class="aspect-btn" data-ratio="1.777">16:9</button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Crop Coordinates (auto-updated)</label>
+                        <div style="font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; color: #a0aec0;">
+                            <p>X: <span id="cropX">0</span> | Y: <span id="cropY">0</span></p>
+                            <p>Width: <span id="cropWidth">0</span> | Height: <span id="cropHeight">0</span></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Resize Controls -->
+                <div class="control-section">
+                    <h3>📐 Resize Settings</h3>
+                    <div class="form-group">
+                        <label>
+                            <input type="checkbox" id="maintainAspectRatio" checked>
+                            Lock Aspect Ratio
+                        </label>
+                    </div>
+                    <div class="input-group">
+                        <div class="form-group">
+                            <label>Width (px)</label>
+                            <input type="number" id="resizeWidth" placeholder="Auto">
+                        </div>
+                        <div class="form-group">
+                            <label>Height (px)</label>
+                            <input type="number" id="resizeHeight" placeholder="Auto">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Format Conversion -->
+                <div class="control-section">
+                    <h3>🔄 Format Conversion</h3>
+                    <div class="form-group">
+                        <label>Output Format</label>
+                        <select id="outputFormat">
+                            <option value="png">PNG</option>
+                            <option value="jpg">JPG</option>
+                            <option value="webp">WebP</option>
+                            <option value="bmp">BMP</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Compression -->
+                <div class="control-section">
+                    <h3>🗜️ Compression</h3>
+                    <div class="form-group">
+                        <label>Quality <span class="range-value" id="qualityValue">90%</span></label>
+                        <input type="range" id="quality" min="1" max="100" value="90">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="button-group">
+                <button class="btn btn-primary" id="processBtn">
+                    <span>✨ Process Image</span>
+                </button>
+                <button class="btn btn-secondary" id="resetBtn">
+                    <span>🔄 Reset</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Result Section -->
+        <div class="glass-card result-section" id="resultSection">
+            <h2 style="margin-bottom: 2rem; font-size: 2rem; font-weight: 700;">📊 Results</h2>
+            <div class="result-grid">
+                <div class="result-item">
+                    <h4>Original Image</h4>
+                    <img id="originalResult" class="result-image" src="" alt="Original">
+                    <div class="result-info" id="originalInfo"></div>
+                </div>
+                <div class="result-item">
+                    <h4>Processed Image</h4>
+                    <img id="processedResult" class="result-image" src="" alt="Processed">
+                    <div class="result-info" id="processedInfo"></div>
+                    <button class="btn btn-primary" id="downloadBtn" style="margin-top: 1rem; width: 100%;">
+                        <span>⬇️ Download Processed Image</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Cropper.js -->
+    <script src="/_content/ImageCrop.Web/lib/cropper/cropper.min.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script src="/_content/ImageCrop.Web/js/app.js" asp-append-version="true"></script>
+</body>
+</html>
