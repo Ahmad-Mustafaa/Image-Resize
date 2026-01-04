@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ahmad.ImageAdjust.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ahmad.ImageAdjust.odt4599yxn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\lib\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\lib\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\01aa5178-8a15-4233-944b-dea3955642c4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\01aa5178-8a15-4233-944b-dea3955642c4.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\07ff40b0-0620-4bc2-ba8c-bd7dcddebd5b.png",
+      "PackagePath": "staticwebassets\\uploads\\07ff40b0-0620-4bc2-ba8c-bd7dcddebd5b.png"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\0a9add35-3483-4a45-b0bd-d77f386d9688.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0a9add35-3483-4a45-b0bd-d77f386d9688.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\1b4c06b1-5013-4ebf-9407-d585eec16462.webp",
+      "PackagePath": "staticwebassets\\uploads\\1b4c06b1-5013-4ebf-9407-d585eec16462.webp"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\27380ece-6eac-4462-b984-3b457773adac.jpg",
+      "PackagePath": "staticwebassets\\uploads\\27380ece-6eac-4462-b984-3b457773adac.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\2d3fb256-48a5-478c-9e58-d9d0d49fd37d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2d3fb256-48a5-478c-9e58-d9d0d49fd37d.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\48da56e7-fb07-40e2-96e9-4392cc002246.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48da56e7-fb07-40e2-96e9-4392cc002246.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\48e9275c-54e7-496f-895e-5c08015ae29a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\48e9275c-54e7-496f-895e-5c08015ae29a.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\504cceaa-78f0-4a1b-a34f-c374aac438e4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\504cceaa-78f0-4a1b-a34f-c374aac438e4.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\58aabb1c-d867-4425-8c8b-8c305d0c4283.png",
+      "PackagePath": "staticwebassets\\uploads\\58aabb1c-d867-4425-8c8b-8c305d0c4283.png"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\932d000c-653a-42fe-9af2-c47df0d3d215.jpg",
+      "PackagePath": "staticwebassets\\uploads\\932d000c-653a-42fe-9af2-c47df0d3d215.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\9e8f0e98-2284-480a-80f4-7a7f10fbd0b3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9e8f0e98-2284-480a-80f4-7a7f10fbd0b3.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\bae28389-65f2-4fdf-bee7-3ab0cc7078e1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bae28389-65f2-4fdf-bee7-3ab0cc7078e1.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\bcd3e53b-54d7-40a6-ba74-e4b4ebfc88b7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bcd3e53b-54d7-40a6-ba74-e4b4ebfc88b7.jpg"
+    },
+    {
+      "Id": "D:\\projects\\AI\\image crop and aspect ratio website\\imagecrop.web\\wwwroot\\uploads\\d0e522ca-467c-447a-8fbf-4e31e3f05429.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d0e522ca-467c-447a-8fbf-4e31e3f05429.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ahmad.ImageAdjust.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ahmad.ImageAdjust.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ahmad.ImageAdjust.props",
+      "PackagePath": "build\\ahmad.ImageAdjust.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ahmad.ImageAdjust.props",
+      "PackagePath": "buildMultiTargeting\\ahmad.ImageAdjust.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ahmad.ImageAdjust.props",
+      "PackagePath": "buildTransitive\\ahmad.ImageAdjust.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

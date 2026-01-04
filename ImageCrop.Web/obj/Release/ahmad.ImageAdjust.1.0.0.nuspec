@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ahmad.ImageAdjust</id>
+    <version>1.0.0</version>
+    <authors>Ahmad Mustafa</authors>
+    <description>Integrate in your .net project which help your images to crop and convert in different formats</description>
+    <repository type="git" url="https://github.com/Ahmad-Mustafaa/Image-Resize" commit="146539d4a55f5c8307e652684683052885c8e9fe" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="SkiaSharp" version="3.119.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\bin\Release\net8.0\ImageCrop.Web.dll" target="lib\net8.0\ImageCrop.Web.dll" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\scopedcss\projectbundle\ahmad.ImageAdjust.bundle.scp.css" target="staticwebassets\ahmad.ImageAdjust.odt4599yxn.bundle.scp.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\css\site.css" target="staticwebassets\css\site.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\favicon.ico" target="staticwebassets\favicon.ico" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\js\app.js" target="staticwebassets\js\app.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\js\site.js" target="staticwebassets\js\site.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\LICENSE" target="staticwebassets\lib\bootstrap\LICENSE" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" target="staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" target="staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\cropper\cropper.min.css" target="staticwebassets\lib\cropper\cropper.min.css" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\cropper\cropper.min.js" target="staticwebassets\lib\cropper\cropper.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" target="staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js" target="staticwebassets\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js" target="staticwebassets\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation\LICENSE.md" target="staticwebassets\lib\jquery-validation\LICENSE.md" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation\dist\additional-methods.js" target="staticwebassets\lib\jquery-validation\dist\additional-methods.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" target="staticwebassets\lib\jquery-validation\dist\additional-methods.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js" target="staticwebassets\lib\jquery-validation\dist\jquery.validate.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" target="staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\LICENSE.txt" target="staticwebassets\lib\jquery\LICENSE.txt" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.js" target="staticwebassets\lib\jquery\dist\jquery.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.min.js" target="staticwebassets\lib\jquery\dist\jquery.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.min.map" target="staticwebassets\lib\jquery\dist\jquery.min.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.slim.js" target="staticwebassets\lib\jquery\dist\jquery.slim.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.slim.min.js" target="staticwebassets\lib\jquery\dist\jquery.slim.min.js" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\lib\jquery\dist\jquery.slim.min.map" target="staticwebassets\lib\jquery\dist\jquery.slim.min.map" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\01aa5178-8a15-4233-944b-dea3955642c4.jpg" target="staticwebassets\uploads\01aa5178-8a15-4233-944b-dea3955642c4.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\07ff40b0-0620-4bc2-ba8c-bd7dcddebd5b.png" target="staticwebassets\uploads\07ff40b0-0620-4bc2-ba8c-bd7dcddebd5b.png" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\0a9add35-3483-4a45-b0bd-d77f386d9688.jpg" target="staticwebassets\uploads\0a9add35-3483-4a45-b0bd-d77f386d9688.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\1b4c06b1-5013-4ebf-9407-d585eec16462.webp" target="staticwebassets\uploads\1b4c06b1-5013-4ebf-9407-d585eec16462.webp" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\27380ece-6eac-4462-b984-3b457773adac.jpg" target="staticwebassets\uploads\27380ece-6eac-4462-b984-3b457773adac.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\2d3fb256-48a5-478c-9e58-d9d0d49fd37d.jpg" target="staticwebassets\uploads\2d3fb256-48a5-478c-9e58-d9d0d49fd37d.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\48da56e7-fb07-40e2-96e9-4392cc002246.jpg" target="staticwebassets\uploads\48da56e7-fb07-40e2-96e9-4392cc002246.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\48e9275c-54e7-496f-895e-5c08015ae29a.jpg" target="staticwebassets\uploads\48e9275c-54e7-496f-895e-5c08015ae29a.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\504cceaa-78f0-4a1b-a34f-c374aac438e4.jpg" target="staticwebassets\uploads\504cceaa-78f0-4a1b-a34f-c374aac438e4.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\58aabb1c-d867-4425-8c8b-8c305d0c4283.png" target="staticwebassets\uploads\58aabb1c-d867-4425-8c8b-8c305d0c4283.png" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\932d000c-653a-42fe-9af2-c47df0d3d215.jpg" target="staticwebassets\uploads\932d000c-653a-42fe-9af2-c47df0d3d215.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\9e8f0e98-2284-480a-80f4-7a7f10fbd0b3.jpg" target="staticwebassets\uploads\9e8f0e98-2284-480a-80f4-7a7f10fbd0b3.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\bae28389-65f2-4fdf-bee7-3ab0cc7078e1.jpg" target="staticwebassets\uploads\bae28389-65f2-4fdf-bee7-3ab0cc7078e1.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\bcd3e53b-54d7-40a6-ba74-e4b4ebfc88b7.jpg" target="staticwebassets\uploads\bcd3e53b-54d7-40a6-ba74-e4b4ebfc88b7.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\wwwroot\uploads\d0e522ca-467c-447a-8fbf-4e31e3f05429.jpg" target="staticwebassets\uploads\d0e522ca-467c-447a-8fbf-4e31e3f05429.jpg" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\staticwebassets\msbuild.ahmad.ImageAdjust.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\staticwebassets\msbuild.ahmad.ImageAdjust.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\staticwebassets\msbuild.build.ahmad.ImageAdjust.props" target="build\ahmad.ImageAdjust.props" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ahmad.ImageAdjust.props" target="buildMultiTargeting\ahmad.ImageAdjust.props" />
+    <file src="D:\projects\AI\image crop and aspect ratio website\imagecrop.web\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ahmad.ImageAdjust.props" target="buildTransitive\ahmad.ImageAdjust.props" />
+  </files>
+</package>

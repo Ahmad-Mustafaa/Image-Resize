@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+    <PackageId>ahmad.ImageAdjust</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ahmad Mustafa</Authors>
+    <Description>Integrate in your .net project which help your images to crop and convert in different formats</Description>
+  
+    <RepositoryUrl>https://github.com/Ahmad-Mustafaa/Image-Resize</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>

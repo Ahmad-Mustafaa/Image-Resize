@@ -1,0 +1,49 @@
+/* _content/ImageCrop.Web/Areas/ImageCrop/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ujtpv4xmbw] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ujtpv4xmbw] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ujtpv4xmbw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ujtpv4xmbw], .nav-pills .show > .nav-link[b-ujtpv4xmbw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ujtpv4xmbw] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ujtpv4xmbw] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ujtpv4xmbw] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ujtpv4xmbw] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ujtpv4xmbw] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
