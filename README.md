@@ -27,7 +27,7 @@ Install-Package ahmad.ImageAdjust
 
 Or via the .NET CLI:
 
-`ash
+`
  dotnet add package ahmad.ImageAdjust
 `
 
