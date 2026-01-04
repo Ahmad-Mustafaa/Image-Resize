@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore everything
+*
+
+# But keep ImageCrop.Web folder
+!ImageCrop.Web/
+!ImageCrop.Web/**
